@@ -8,8 +8,8 @@ and get an idea of changing color from [javascript30](https://javascript30.com/)
 
 ## Features
 User are able to
-- change the size of brush
-- change the color manually or automatically
+- change a size of brush
+- change a color manually or automatically
 - delete whole painting 
 
 ## What I Learn
