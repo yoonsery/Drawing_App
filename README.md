@@ -1,4 +1,4 @@
-# Drawing app
+# 🎨 Drawing app
 ![drawing_app](https://user-images.githubusercontent.com/69155242/116497860-4bf01580-a8e3-11eb-8327-6b24f4b02b05.gif)
 
 
@@ -9,7 +9,7 @@ and get an idea of changing color from [javascript30](https://javascript30.com/)
 ## Features
 User are able to
 - change a size of brush
-- change a color manually or automatically
+- change brush color manually or automatically
 - delete whole painting 
 
 ## What I Learn
